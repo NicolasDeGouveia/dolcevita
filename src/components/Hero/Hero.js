@@ -53,6 +53,7 @@ export default function Hero({ Slides }) {
 
     timeout.current = setTimeout(nextSlide, 3000);
 
+    // eslint-disable-next-line func-names
     return function () {
       if (timeout.current) {
         clearTimeout(timeout.current);
