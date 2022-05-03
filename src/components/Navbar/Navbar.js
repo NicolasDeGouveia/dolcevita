@@ -52,7 +52,7 @@ export default function Navbar({ toggle }) {
             ))
           }
       </div>
-      <Button path="/contact" content="Contact Us" onClick={toggle} />
+      <Button path="/contact" content="Contact Us" />
 
     </nav>
   );
