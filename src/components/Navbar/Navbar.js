@@ -33,13 +33,13 @@ export default function Navbar({ toggle }) {
   }, []);
 
   const style = {
-    backgroundColor: navBar || location.pathname !== '/' ? '#CD853F' : 'transparent',
+    backgroundColor: navBar || location.pathname !== '/dolcevita' ? '#CD853F' : 'transparent',
     transition: '0.4s',
   };
 
   return (
     <nav className="navbar" style={style}>
-      <Link to="/" className="navbar__title">
+      <Link to="/dolcevita" className="navbar__title">
         Dolce Vita
       </Link>
       <div className="navbar__bars" onClick={toggle} />
