@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dolcevita/static/css/main.ea1328f6.css",
-    "main.js": "/dolcevita/static/js/main.55d39337.js",
+    "main.css": "/dolcevita/static/css/main.f401b011.css",
+    "main.js": "/dolcevita/static/js/main.14faecb4.js",
     "static/media/Madeira.jpg": "/dolcevita/static/media/Madeira.9234a14e6b8fac0770c3.jpg",
     "static/media/Madrid.jpg": "/dolcevita/static/media/Madrid.6d868d2fcb84a586b3e4.jpg",
     "static/media/Rome.jpg": "/dolcevita/static/media/Rome.d4bf77f7145f7083e652.jpg",
@@ -16,11 +16,11 @@
     "static/media/Destinations.jpg": "/dolcevita/static/media/Destinations.bbf526823b28e8fd2760.jpg",
     "static/media/Bars.png": "/dolcevita/static/media/Bars.a32ef1aa4872b8036450.png",
     "index.html": "/dolcevita/index.html",
-    "main.ea1328f6.css.map": "/dolcevita/static/css/main.ea1328f6.css.map",
-    "main.55d39337.js.map": "/dolcevita/static/js/main.55d39337.js.map"
+    "main.f401b011.css.map": "/dolcevita/static/css/main.f401b011.css.map",
+    "main.14faecb4.js.map": "/dolcevita/static/js/main.14faecb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea1328f6.css",
-    "static/js/main.55d39337.js"
+    "static/css/main.f401b011.css",
+    "static/js/main.14faecb4.js"
   ]
 }
