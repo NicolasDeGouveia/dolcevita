@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dolcevita/static/css/main.ea1328f6.css",
+    "main.js": "/dolcevita/static/js/main.aa77ef21.js",
+    "static/media/Madeira.jpg": "/dolcevita/static/media/Madeira.9234a14e6b8fac0770c3.jpg",
+    "static/media/Madrid.jpg": "/dolcevita/static/media/Madrid.6d868d2fcb84a586b3e4.jpg",
+    "static/media/Rome.jpg": "/dolcevita/static/media/Rome.d4bf77f7145f7083e652.jpg",
+    "static/media/MadeiraSlide.jpg": "/dolcevita/static/media/MadeiraSlide.3ab785100b898b27febd.jpg",
+    "static/media/MadridSlide.jpg": "/dolcevita/static/media/MadridSlide.c2eeb2344aabfa7bdc67.jpg",
+    "static/media/CracoviaSlide.jpg": "/dolcevita/static/media/CracoviaSlide.439175331cf42fb6e707.jpg",
+    "static/media/Cracovia.jpg": "/dolcevita/static/media/Cracovia.3159bd1e0cf88470e6ef.jpg",
+    "static/media/Newyork.jpg": "/dolcevita/static/media/Newyork.e0cee8ff91e619ccd742.jpg",
+    "static/media/Budapest.jpg": "/dolcevita/static/media/Budapest.c9cf9967a792039d6965.jpg",
+    "static/media/Montreal.jpg": "/dolcevita/static/media/Montreal.39db81fe343051821c1a.jpg",
+    "static/media/map.jpg": "/dolcevita/static/media/map.3c3e811e288282646433.jpg",
+    "static/media/Destinations.jpg": "/dolcevita/static/media/Destinations.bbf526823b28e8fd2760.jpg",
+    "static/media/Bars.png": "/dolcevita/static/media/Bars.a32ef1aa4872b8036450.png",
+    "index.html": "/dolcevita/index.html",
+    "main.ea1328f6.css.map": "/dolcevita/static/css/main.ea1328f6.css.map",
+    "main.aa77ef21.js.map": "/dolcevita/static/js/main.aa77ef21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1328f6.css",
+    "static/js/main.aa77ef21.js"
+  ]
+}
